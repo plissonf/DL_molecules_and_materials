@@ -1,9 +1,6 @@
-Deep Learning for Molecules and Materials Book
-
-View book at dmol.pub
+Deep Learning for Molecules and Materials Book at https://dmol.pub/intro.html
 
 © Andrew White
-
 
 
 Chapters Notebooks:
